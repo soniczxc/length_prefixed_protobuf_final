@@ -1,0 +1,7 @@
+.idea/
+.vscode/
+build/
+CMakeLists.txt.user
+
+# Project exclude paths
+/cmake-build-debug/CMakeFiles/
